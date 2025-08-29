@@ -14,6 +14,6 @@ JSON-based storage (no external database required)
 # ensure Python 3.8+ is installed
 
 To run:
-navigate to project folder in cmd
-python warehouse_manager.py
+navigate to project folder in cmd=>   
+python warehouse_manager.py   
 hit enter :)
